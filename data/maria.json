@@ -18,7 +18,8 @@
     ],
     "theme": "carorena",
     "settings": {
-      "backgroundImage": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2029&auto=format&fit=crop"
+      "backgroundImage": "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2029&auto=format&fit=crop",
+      "hideThemeButton": true
     },
     "socialButtons": {
       "enabled": true,

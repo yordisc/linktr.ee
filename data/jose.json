@@ -21,9 +21,9 @@
         "alt": "En la naturaleza"
       }
     ],
-    "theme": "default",
+    "theme": "random",
     "settings": {
-      "backgroundImage": "https://images.unsplash.com/photo-17089623236d-676bef7f8db9?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+      "backgroundImage": "",
       "cardBackground": "#ffffff",
       "cardOpacity": 0.95,
       "hideThemeButton": false

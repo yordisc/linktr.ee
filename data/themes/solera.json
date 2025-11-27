@@ -9,7 +9,7 @@
     "avatarShape": "circle",
     "socialButtons": {
       "enabled": false,
-      "draggable": true,
+      "draggable": false,
       "style": "circles",
       "size": "medium",
       "position": "top"
@@ -30,7 +30,7 @@
       "warning": "#F59E0B"
     },
     "backgrounds": {
-      "page": "linear-gradient(rgba(225, 245, 254, 0.4), rgba(225, 245, 254, 0.4)), url('/fondos/polar01.mp4') no-repeat center center / cover fixed",
+      "page": "linear-gradient(rgba(225, 245, 254, 0.4), rgba(225, 245, 254, 0.4)), url('fondos/polar01.mp4') no-repeat center center / cover fixed",
       "card": "rgba(255, 255, 255, 0.35)",
       "button": "linear-gradient(135deg, rgba(0, 75, 135, 0.85) 0%, rgba(0, 47, 85, 0.9) 100%)",
       "buttonHover": "linear-gradient(135deg, #0069BC 0%, #004B87 100%)"
@@ -60,7 +60,7 @@
       "warning": "#D4AF37"
     },
     "backgrounds": {
-      "page": "linear-gradient(rgba(0, 34, 14, 0.5), rgba(0, 15, 5, 0.6)), url('/fondos/polar02.webp') no-repeat center center / cover fixed",
+      "page": "linear-gradient(rgba(0, 34, 14, 0.5), rgba(0, 15, 5, 0.6)), url('fondos/polar02.webp') no-repeat center center / cover fixed",
       "card": "rgba(0, 20, 10, 0.4)",
       "button": "linear-gradient(180deg, rgba(0, 51, 17, 0.85) 0%, rgba(0, 31, 10, 0.9) 100%)",
       "buttonHover": "linear-gradient(180deg, #004015 0%, #003311 100%)"

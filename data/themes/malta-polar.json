@@ -5,14 +5,14 @@
   "description": "Estilo fresco: Plateado y Cian (Light) vs Vidrio Oscuro (Clásica).",
   "version": "11.1.0",
   "structure": {
-    "layout": "list",
+    "layout": "grid",
     "avatarShape": "circle",
     "socialButtons": {
       "enabled": true,
       "draggable": false,
       "style": "squares",
       "size": "medium",
-      "position": "both"
+      "position": "top"
     }
   },
   "light": {

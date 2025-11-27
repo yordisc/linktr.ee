@@ -9,7 +9,7 @@
     "avatarShape": "circle",
     "socialButtons": {
       "enabled": true,
-      "draggable": true,
+      "draggable": false,
       "style": "rounded",
       "size": "medium",
       "position": "top"

@@ -60,7 +60,7 @@
       "warning": "#D4AF37"
     },
     "backgrounds": {
-      "page": "linear-gradient(rgba(0, 34, 14, 0.5), rgba(0, 15, 5, 0.6)), url('fondos/polar02.webp') no-repeat center center / cover fixed",
+      "page": "linear-gradient(rgba(0, 34, 14, 0.5), rgba(0, 15, 5, 0.6)), url('/fondos/polar02.webp') no-repeat center center / cover fixed",
       "card": "rgba(0, 20, 10, 0.4)",
       "button": "linear-gradient(180deg, rgba(0, 51, 17, 0.85) 0%, rgba(0, 31, 10, 0.9) 100%)",
       "buttonHover": "linear-gradient(180deg, #004015 0%, #003311 100%)"

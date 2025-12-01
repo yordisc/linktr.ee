@@ -60,7 +60,7 @@
       "warning": "#FFD700"
     },
     "backgrounds": {
-      "page": "linear-gradient(rgba(0, 16, 40, 0.4), rgba(0, 16, 40, 0.6)), url('fondos/polar03.webp') no-repeat center top / cover fixed",
+      "page": "linear-gradient(rgba(0, 16, 40, 0.4), rgba(0, 16, 40, 0.6)), url('/fondos/polar03.webp') no-repeat center top / cover fixed",
       "card": "rgba(0, 32, 80, 0.45)",
       "button": "linear-gradient(135deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%)",
       "buttonHover": "linear-gradient(135deg, rgba(255, 215, 0, 0.2) 0%, rgba(255, 215, 0, 0.1) 100%)"
